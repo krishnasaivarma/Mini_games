@@ -1,0 +1,44 @@
+C:\Users\RAJU\Desktop\kittu\c#\project01\project01\obj\x86\Debug\project01.Form1.resources
+C:\Users\RAJU\Desktop\kittu\c#\project01\project01\obj\x86\Debug\project01.sts.resources
+C:\Users\RAJU\Desktop\kittu\c#\project01\project01\obj\x86\Debug\project01.Properties.Resources.resources
+C:\Users\RAJU\Desktop\kittu\c#\project01\project01\obj\x86\Debug\project01.csproj.GenerateResource.Cache
+C:\Users\RAJU\Desktop\kittu\c#\project01\project01\bin\Debug\project01.exe
+C:\Users\RAJU\Desktop\kittu\c#\project01\project01\bin\Debug\project01.pdb
+C:\Users\RAJU\Desktop\kittu\c#\project01\project01\obj\x86\Debug\project01.exe
+C:\Users\RAJU\Desktop\kittu\c#\project01\project01\obj\x86\Debug\project01.pdb
+C:\Users\RAJU\Desktop\kittu\c#\project01\project01\obj\x86\Debug\project01.ttt.resources
+C:\Users\RAJU\Desktop\kittu\c#\project01\project01\obj\x86\Debug\project01.csprojResolveAssemblyReference.cache
+C:\Users\RAJU\Desktop\kittu\c#\project01\project01\obj\x86\Debug\project01.picmix.resources
+C:\Users\RAJU\Desktop\kittu\c#\project01\project01\obj\x86\Debug\project01.pipes.resources
+C:\Users\RAJU\Desktop\kittu\c#\project01\project01\obj\x86\Debug\project01.mm.resources
+C:\Users\RAJU\Desktop\kittu\c#\project01\project01\obj\x86\Debug\project01.SW.resources
+G:\project\project01\project01\obj\x86\Debug\project01.csprojResolveAssemblyReference.cache
+G:\project\project01\project01\obj\x86\Debug\project01.Form1.resources
+G:\project\project01\project01\obj\x86\Debug\project01.sts.resources
+G:\project\project01\project01\obj\x86\Debug\project01.picmix.resources
+G:\project\project01\project01\obj\x86\Debug\project01.ttt.resources
+G:\project\project01\project01\obj\x86\Debug\project01.pipes.resources
+G:\project\project01\project01\obj\x86\Debug\project01.mm.resources
+G:\project\project01\project01\obj\x86\Debug\project01.SW.resources
+G:\project\project01\project01\obj\x86\Debug\project01.Properties.Resources.resources
+G:\project\project01\project01\obj\x86\Debug\project01.csproj.GenerateResource.Cache
+G:\project\project01\project01\obj\x86\Debug\project01.exe
+G:\project\project01\project01\obj\x86\Debug\project01.pdb
+I:\project\project01\project01\obj\x86\Debug\project01.exe
+I:\project\project01\project01\obj\x86\Debug\project01.pdb
+I:\krishna\mini sem\project\project01\project01\obj\x86\Debug\project01.exe
+I:\krishna\mini sem\project\project01\project01\obj\x86\Debug\project01.pdb
+G:\krishna\mini sem\project\project01\project01\obj\x86\Debug\project01.csprojResolveAssemblyReference.cache
+G:\krishna\mini sem\project\project01\project01\obj\x86\Debug\project01.Form1.resources
+G:\krishna\mini sem\project\project01\project01\obj\x86\Debug\project01.sts.resources
+G:\krishna\mini sem\project\project01\project01\obj\x86\Debug\project01.picmix.resources
+G:\krishna\mini sem\project\project01\project01\obj\x86\Debug\project01.ttt.resources
+G:\krishna\mini sem\project\project01\project01\obj\x86\Debug\project01.pipes.resources
+G:\krishna\mini sem\project\project01\project01\obj\x86\Debug\project01.mm.resources
+G:\krishna\mini sem\project\project01\project01\obj\x86\Debug\project01.SW.resources
+G:\krishna\mini sem\project\project01\project01\obj\x86\Debug\project01.Properties.Resources.resources
+G:\krishna\mini sem\project\project01\project01\obj\x86\Debug\project01.csproj.GenerateResource.Cache
+G:\krishna\mini sem\project\project01\project01\obj\x86\Debug\project01.exe
+G:\krishna\mini sem\project\project01\project01\obj\x86\Debug\project01.pdb
+G:\krishna\mini sem\project\project01\project01\bin\Debug\project01.exe
+G:\krishna\mini sem\project\project01\project01\bin\Debug\project01.pdb
